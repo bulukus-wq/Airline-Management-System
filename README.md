@@ -1,6 +1,13 @@
 # ✈️ Airline Management System (Java OOP Project)
 
-The main objective of this project is to implement a comprehensive **Airline Reservation and Management System** using the Java programming language. This project demonstrates the practical application of **Object-Oriented Programming (OOP)** principles such as Encapsulation, Inheritance, Polymorphism, and Abstraction. Additionally, modern software development practices, including **Unit Testing (JUnit)** and **Multithreading**, have been integrated to simulate real-world scenarios.
+A comprehensive Airline Reservation and Management System developed as a Term Project for the **BLM1033 (Computer Engineering)** course at **Yıldız Technical University**. This project demonstrates the practical application of Object-Oriented Programming (OOP) principles and advanced Java concepts like Multithreading and Unit Testing.
+
+> **Achievement:** This project was awarded a perfect grade of **100/100**.
+
+## 👥 Developers
+This project was a collaborative effort by:
+* **Büşra Ulukuş** - [GitHub Profile](https://github.com/bulukus-wq)
+* **Zehra Heray** - [GitHub Profile](https://github.com/zehraheray)
 
 
 ## 🛠 System Architecture
@@ -36,3 +43,4 @@ The system features a dual-access authentication mechanism to separate administr
     * **Password:** `123`
 * **Staff Access:** Registered personnel can also access the management panel by entering their specific **Staff Name** and **Staff ID**.
 * **Booking Panel (Passenger):** Any credentials entered other than the administrative ones listed above will automatically route the user to the passenger booking interface.
+
